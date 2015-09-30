@@ -23,7 +23,7 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 ################
 
 background-img: "../img/intro-bg.jpg"
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/chiconavypeer.png"
 
 ########
 # Blog #
@@ -82,10 +82,10 @@ email: "francisco.portillo@gmail.com"
 # In the default page it will point to the preview of the last post
 
 pages_list:
-  Sobre: 'about'
+  Sobre: 'sobre'
   Blog: 'blog'
-  Xp: 'career'
-  Contato: 'contact'
+  Xp: 'xp'
+  Contato: 'contato'
 
 # Pagination path
 paginate_path: "blog/page:num"

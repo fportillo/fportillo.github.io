@@ -11,7 +11,7 @@
 
   {% for page in site.pages %}
 
-    {% if page.section-type == "about" %}
+    {% if page.section-type == "sobre" %}
 
       {% include about.html %}
 
@@ -19,11 +19,11 @@
 
       {% include latest-post.html %}
 
-    {% elsif page.section-type == "career" %}
+    {% elsif page.section-type == "xp" %}
 
       {% include career.html %}
 
-    {% elsif page.section-type == "contact" %}
+    {% elsif page.section-type == "contato" %}
 
       {% include contact.html %}
 
