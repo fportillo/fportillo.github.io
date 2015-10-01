@@ -10,7 +10,7 @@ url: "http://portillo.blog.br"
 lang: "en"
 title: "{ Francisco Portillo }"
 description: "Olá pessoal, esse é meu espaço na web. Aqui você encontra de tudo um pouco sobre mim :)."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "web, software, tecnologia, fotografia, música, arte"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 404-img: "/img/labtocat.png"
@@ -38,7 +38,7 @@ paginate: 5
 fb-share: True
 twitter-share: True
 reddit-share: True
-disqus-shortname: "<YOUR DISQUS USERNAME>"
+disqus-shortname: "portillof"
 
 ###############
 # Life Events #
