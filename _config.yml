@@ -45,7 +45,13 @@ disqus-shortname: "portillof"
 ###############
 
 events:
-  - image: "/img/career/spidertocat.png"
+  - image: "/img/career/inmetricslogo.jpg"
+    date: "September 2013 - Today"
+    description: "Saving the neighborhood!"
+  - image: "/img/career/sprintlogo.jpg"
+    date: "September 2013 - Today"
+    description: "Saving the neighborhood!"
+  - image: "/img/career/ibmlogo.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/career/quantamusic.png"
@@ -56,7 +62,7 @@ events:
     description: "Level 1: serviços técnicos em tecnologia de áudio"
 
 # First image of the Career timeline
-career-img: "/img/career/default.png"
+career-img: "/img/career/startmeup.jpg"
 
 ##################
 # Social Buttons #
