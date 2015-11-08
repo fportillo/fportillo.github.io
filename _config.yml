@@ -9,8 +9,8 @@ author: "Francisco Portillo"
 url: "http://portillo.blog.br"
 lang: "en"
 title: "{ Francisco Portillo }"
-description: "Olá pessoal, esse é meu espaço na web. Aqui você encontra de tudo um pouco sobre mim :)."
-keywords: "web, software, tecnologia, fotografia, música, arte"
+description: "Hello guys. This is my space on the web. I hope you can find a little bit more about me. :)"
+keywords: "web, software, technology, photography, music, art"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 404-img: "/img/labtocat.png"
@@ -62,16 +62,16 @@ events:
     description: "Level 4: DevOps early adoptor @ IBM"
   - image: "/img/career/ibmlogo.png"
     date: "Julho 2007"
-    description: "Nova fase: Computação + empresas multinacionais"
+    description: "New phase: Computer Science + multinational companies"
   - image: "/img/career/quantamusic.png"
     date: "2006 - Junho/2007"
-    description: "Level Up: Consultor Técnico de Vendas"
+    description: "Level Up: Tech Sales Consultant"
   - image: "/img/career/quantaservice.png"
     date: "Meados de 2005"
-    description: "Level 1: serviços técnicos em tecnologia de áudio"
+    description: "Level 1: audio technical services"
   - image: "/img/career/musica.jpg"
     date: "2001 - 2004"
-    description: "Música - Unicamp"
+    description: "Music @ Unicamp"
 
 # First image of the Career timeline
 career-img: "/img/career/startmeup.jpg"
@@ -103,10 +103,10 @@ email: "francisco.portillo@gmail.com"
 # In the default page it will point to the preview of the last post
 
 pages_list:
-  Sobre: 'sobre'
+  About: 'about'
   Blog: 'blog'
   Xp: 'xp'
-  Contato: 'contato'
+  Contact: 'contact'
 
 # Pagination path
 paginate_path: "blog/page:num"
